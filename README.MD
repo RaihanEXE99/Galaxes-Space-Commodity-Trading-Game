@@ -1,3 +1,3 @@
 # 🌌Galaxes-Space-Commodity-Trading-Game☄
-![Bye](https://media.tenor.com/images/8e889f99288ee40650cad8b6adb3679e/tenor.gif)
+![preview](https://raw.githubusercontent.com/RaihanEXE99/Galaxes-Space-Commodity-Trading-Game/main/images/space-game-RaihanEXE99.png)
 ## 🛰http://space-game-django.herokuapp.com/
